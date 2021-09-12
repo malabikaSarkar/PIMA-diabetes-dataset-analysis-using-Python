@@ -10,4 +10,4 @@ Here I am using Python 3.9.2 and scikit-learn 0.24.2 to implement the model.
 6. **Random Forest**
 7. **XGBOOST**
 
-**SMOTE has been used for balancing and StandarScaler method for scaling the dataset. Here ROC_AUC is used for performace measurement.**
+**SMOTE has been used for balancing and StandarScaler method for scaling the dataset. Here ROC_AUC is used for performance measurement.**
